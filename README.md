@@ -18,9 +18,6 @@ Based in Ukraine 🇺🇦
 **[rust-base-builder](https://github.com/dyevlakhov/rust-base-builder)** — 3D base planner for the survival game Rust. Design a layout with the game's real building system before spending resources in-game.
 *Next.js 14 · TypeScript · Three.js · React Three Fiber*
 
-**[next-graphql-starter](https://github.com/dyevlakhov/next-graphql-starter)** — full-stack TypeScript starter with Next.js and GraphQL.
-*Next.js · GraphQL · TypeScript*
-
 ---
 
 ### Contact
