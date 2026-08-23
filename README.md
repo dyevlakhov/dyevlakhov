@@ -1,16 +1,28 @@
-![Metrics](https://metrics.lecoq.io/danheim?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
+## Dmytro Yevlakhov
 
-<!--
-**danheim/danheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building web products with **TypeScript, React/Next.js and Node.js**.
+Currently moving into **AI engineering** — Python, LLM applications, RAG pipelines.
 
-Here are some ideas to get you started:
+Based in Ukraine 🇺🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Docker` · `Kubernetes` · `Terraform` · `AWS`
+
+---
+
+### Selected work
+
+**[rust-base-builder](https://github.com/dyevlakhov/rust-base-builder)** — 3D base planner for the survival game Rust. Design a layout with the game's real building system before spending resources in-game.
+*Next.js 14 · TypeScript · Three.js · React Three Fiber*
+
+**[next-graphql-starter](https://github.com/dyevlakhov/next-graphql-starter)** — full-stack TypeScript starter with Next.js and GraphQL.
+*Next.js · GraphQL · TypeScript*
+
+---
+
+### Contact
+
+📫 [yevlakhovdmytro@gmail.com](mailto:yevlakhovdmytro@gmail.com)
